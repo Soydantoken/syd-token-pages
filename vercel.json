@@ -1,0 +1,7 @@
+
+{
+  "public": "sydtoken_iyzico_pages",
+  "rewrites": [
+    { "source": "/", "destination": "/hakkimizda.html" }
+  ]
+}
